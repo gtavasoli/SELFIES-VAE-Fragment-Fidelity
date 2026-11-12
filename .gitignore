@@ -1,0 +1,51 @@
+# Python environments and build products
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+
+# External resource bundles; keep their documentation and inventories in Git.
+/datasets/*
+!/datasets/README.md
+!/datasets/manifest.json
+!/datasets/inventory.json
+/models/*
+!/models/README.md
+!/models/manifest.json
+/results/*
+!/results/README.md
+!/results/summary.csv
+!/results/manifest.json
+!/results/tables/
+
+# New runs, local migration files, and editor state
+/runs/
+/.release-staging/
+/.vscode/
+/mlruns/
+*.db
+
+# Original local resources (archived separately during release preparation)
+/data/
+/output*/
+*.zip
+*.rar
+*.tar.gz
+
+# LaTeX build products
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc

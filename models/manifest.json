@@ -1,0 +1,92 @@
+[
+  {
+    "path": "models/main/Baseline-VAE_100k_s1/best.pt",
+    "bytes": 35110933,
+    "sha256": "d9443b5bf45c529ad03fe7e9afd03be6c9728ea06985fed18c43a4e42833888c"
+  },
+  {
+    "path": "models/main/Baseline-VAE_10k_s1/best.pt",
+    "bytes": 35058901,
+    "sha256": "9286a4b2b4087c6ad39a9fbe1aced12f49afaf5a525fde421ab9ce594dd3d70e"
+  },
+  {
+    "path": "models/main/Baseline-VAE_1m_s1/best.pt",
+    "bytes": 35216981,
+    "sha256": "c18514f48b0382ba43f7160e28d216c497860ead0f8f7dd170a59dd3148a1e17"
+  },
+  {
+    "path": "models/main/Contrastive-VAE_100k_s1/best.pt",
+    "bytes": 35111637,
+    "sha256": "fbf3c49f4b776969c69a9be1119b5dbbc53f11b3f6b43384d33bd20983dc09fb"
+  },
+  {
+    "path": "models/main/Contrastive-VAE_10k_s1/best.pt",
+    "bytes": 35059605,
+    "sha256": "f6432a3f0b85a6903cab2ea8ab268b18022402494cc75c5f8d78ce0d8cfd2459"
+  },
+  {
+    "path": "models/main/Contrastive-VAE_1m_s1/best.pt",
+    "bytes": 35217621,
+    "sha256": "0a2d2626a3a11ab7ed5293fb37677bc1de9a9b7277f2d017e43cb0dc0e72aff6"
+  },
+  {
+    "path": "models/main/Rare-Aware-VAE_100k_s1/best.pt",
+    "bytes": 35111637,
+    "sha256": "68e296a937f598d9c059b6ecee7828a5fec8cb94c6272a6620ebee718493ebb8"
+  },
+  {
+    "path": "models/main/Rare-Aware-VAE_10k_s1/best.pt",
+    "bytes": 35059605,
+    "sha256": "1a6cfad7b94fd8e6c4edb2e32e74d8d53fea6fa6f8cad324ad1f731967aca4b7"
+  },
+  {
+    "path": "models/main/Rare-Aware-VAE_1m_s1/best.pt",
+    "bytes": 35217621,
+    "sha256": "9b16a29a7f252cbd8bf7a0fd17e0e6ebee9ec28eea39aa77bf5d58c6cf0b2c24"
+  },
+  {
+    "path": "models/replicates/Baseline-VAE_1m_s1/best.pt",
+    "bytes": 35216981,
+    "sha256": "c18514f48b0382ba43f7160e28d216c497860ead0f8f7dd170a59dd3148a1e17"
+  },
+  {
+    "path": "models/replicates/Baseline-VAE_1m_s10/best.pt",
+    "bytes": 35216981,
+    "sha256": "6842e40c37f8a4065e02fbb8d57851f0e710210fbe5e286d5014a1582f6f82ee"
+  },
+  {
+    "path": "models/replicates/Baseline-VAE_1m_s100/best.pt",
+    "bytes": 35216981,
+    "sha256": "a2a106bdcefeac6962aee9fe8690be9b30d81afcf730f4e99b43e2fc0255e448"
+  },
+  {
+    "path": "models/replicates/Contrastive-VAE_1m_s1/best.pt",
+    "bytes": 35217621,
+    "sha256": "0a2d2626a3a11ab7ed5293fb37677bc1de9a9b7277f2d017e43cb0dc0e72aff6"
+  },
+  {
+    "path": "models/replicates/Contrastive-VAE_1m_s10/best.pt",
+    "bytes": 35217621,
+    "sha256": "4c1146187eaaa6494bc4e595782ffd21770a68ffa1adcd89a6a03c558c8b70f9"
+  },
+  {
+    "path": "models/replicates/Contrastive-VAE_1m_s100/best.pt",
+    "bytes": 35217621,
+    "sha256": "3509b64e4cd8a28501633a7d74cec6169bcbec0fb530186a0637b8005991143c"
+  },
+  {
+    "path": "models/replicates/Rare-Aware-VAE_1m_s1/best.pt",
+    "bytes": 35217621,
+    "sha256": "9b16a29a7f252cbd8bf7a0fd17e0e6ebee9ec28eea39aa77bf5d58c6cf0b2c24"
+  },
+  {
+    "path": "models/replicates/Rare-Aware-VAE_1m_s10/best.pt",
+    "bytes": 35217621,
+    "sha256": "c90360c4981815a53d9315d7528947a0b13b2aaba301aa39e0e095db22b13157"
+  },
+  {
+    "path": "models/replicates/Rare-Aware-VAE_1m_s100/best.pt",
+    "bytes": 35217621,
+    "sha256": "5062ec314d574dbfe384d4ffde74a6c0522324566498a7b4dcbeb79823f807fd"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "path": "datasets/100k/clean_selfies.txt",
+    "bytes": 24624609,
+    "sha256": "91410def39f51b7cec8a7a574979395e41c7fb49b77ce389508098ff494c2338"
+  },
+  {
+    "path": "datasets/100k/clean_smiles.txt",
+    "bytes": 5880739,
+    "sha256": "14596dcfd22de2c97d4f8c543d031b03312fc7b90c5413a0655d22d300a9a8fa"
+  },
+  {
+    "path": "datasets/100k/excluded_log.csv",
+    "bytes": 19,
+    "sha256": "ae84bc184b2acf22aa3552ac93b229aa468901dd131e9e598d58314aabb947a7"
+  },
+  {
+    "path": "datasets/100k/frag_freq.csv",
+    "bytes": 3828066,
+    "sha256": "4b3d69d16686e08caf868d86276571bb7fd23a48e0c2886914f08ae6b582da13"
+  },
+  {
+    "path": "datasets/100k/frag_labels.pkl",
+    "bytes": 1053942,
+    "sha256": "290c75e7639ea48ad0e112d64e6d1249c20dc6d885774690a6dd0ee212efe1fc"
+  },
+  {
+    "path": "datasets/100k/frag_vocab.txt",
+    "bytes": 3761693,
+    "sha256": "2f7142bb26fbd432fcb0ce58e3d669b77eccc8c7af7ab4cb5ae51fe840f279e8"
+  },
+  {
+    "path": "datasets/100k/frags_filled.jsonl",
+    "bytes": 58366433,
+    "sha256": "39785b1852c61e204c0e0b7c417986133ffa0412b0109fe7a0dc27a9a2c10211"
+  },
+  {
+    "path": "datasets/100k/sanity_report.json",
+    "bytes": 694,
+    "sha256": "4fec29ef8eeadb7597e4b6cbcc4ace1d1ce1d0901acf4ea062b040a95c5a4829"
+  },
+  {
+    "path": "datasets/100k/selfies_vocab.txt",
+    "bytes": 1144,
+    "sha256": "7420f4adeb05759c07ce1f0a5a92d8eaa184100aaf05b9036c17ff95701c6c50"
+  },
+  {
+    "path": "datasets/100k/token_freq.csv",
+    "bytes": 1621,
+    "sha256": "a754b4bad72f4d49cfa07e29c490b5a0d918bc7629fa76d3440691dd44a11780"
+  },
+  {
+    "path": "datasets/10k/clean_selfies.txt",
+    "bytes": 2495933,
+    "sha256": "e5aa74b9b7a2acd7b7df40d2af0cb7b63387ff7a35d90f15b5f1cd46dee4c127"
+  },
+  {
+    "path": "datasets/10k/clean_smiles.txt",
+    "bytes": 597425,
+    "sha256": "393783a046cbc358091d077aeb89a81f59413aa237810292477b9a0a410b63b2"
+  },
+  {
+    "path": "datasets/10k/excluded_log.csv",
+    "bytes": 19,
+    "sha256": "ae84bc184b2acf22aa3552ac93b229aa468901dd131e9e598d58314aabb947a7"
+  },
+  {
+    "path": "datasets/10k/frag_freq.csv",
+    "bytes": 622381,
+    "sha256": "97bbde6bf2c72c8dbcc2b32e74c7f6732c28839d7d6817e60472fe41024c283d"
+  },
+  {
+    "path": "datasets/10k/frag_labels.pkl",
+    "bytes": 105393,
+    "sha256": "e2b3f0d3e940d46602fe756fb7dfc36a57e1b2c20290ab815373e56d1fe51581"
+  },
+  {
+    "path": "datasets/10k/frag_vocab.txt",
+    "bytes": 609820,
+    "sha256": "ae9f7af04f1694c9d8efadd23b8df0dec7e871d736601484bc5042a336e1ce38"
+  },
+  {
+    "path": "datasets/10k/frags_filled.jsonl",
+    "bytes": 5889497,
+    "sha256": "d8de440d74f7278b986870365cc20254e3a93b6b684994bbcadf25472713a1da"
+  },
+  {
+    "path": "datasets/10k/sanity_report.json",
+    "bytes": 691,
+    "sha256": "5e7667fb2da91e052e019fa9b96d17101f031a4d17574f5f0ec7fadd04323f64"
+  },
+  {
+    "path": "datasets/10k/selfies_vocab.txt",
+    "bytes": 755,
+    "sha256": "4edc2c6c326b2dfcd64a95ac248daee3d5e7d88678f85f32596b752964d369f6"
+  },
+  {
+    "path": "datasets/10k/token_freq.csv",
+    "bytes": 1052,
+    "sha256": "da33afe979869a3a022525cd24b9269856d45d4b6a38d24e077ddbf57a42a9bc"
+  },
+  {
+    "path": "datasets/1m/clean_selfies.txt",
+    "bytes": 243953069,
+    "sha256": "c69e8ce13021228ff08be596557089b0986720742fab1c955bb4be784603e715"
+  },
+  {
+    "path": "datasets/1m/clean_smiles.txt",
+    "bytes": 57365967,
+    "sha256": "2b4326df43e0a61aa58143b82eeb1b4a83da16dadfce7cbbb287b648bdd20d8a"
+  },
+  {
+    "path": "datasets/1m/excluded_log.csv",
+    "bytes": 357,
+    "sha256": "eb1ce54b6f8c34c5816a10cf3f9b2a47568acbd8f3a010bbfa75c0d13817a658"
+  },
+  {
+    "path": "datasets/1m/frag_freq.csv",
+    "bytes": 20643367,
+    "sha256": "043a81692d4db91a0de4604f99050956adecb641d03e7e609815eb0f9a342cfd"
+  },
+  {
+    "path": "datasets/1m/frag_labels.pkl",
+    "bytes": 10557743,
+    "sha256": "95a292e8567acc9b1fc209ba262436067c8a54550e0984aa1a3b783d6ec24517"
+  },
+  {
+    "path": "datasets/1m/frag_vocab.txt",
+    "bytes": 20329269,
+    "sha256": "62bd709bf1ec38c4bebd3f4fc30f07ebecec2537d0b4347eea8018aec4fef230"
+  },
+  {
+    "path": "datasets/1m/frags_filled.jsonl",
+    "bytes": 577002689,
+    "sha256": "25a900c13a7c7f1c26e6945aa6a170892f6b934354903f31398ba02990badb56"
+  },
+  {
+    "path": "datasets/1m/sanity_report.json",
+    "bytes": 609,
+    "sha256": "b6f7aa7eb2dfe9f6b7745a25dd66e47129c0b4a29c5f9ecca0db75523828d8bb"
+  },
+  {
+    "path": "datasets/1m/selfies_vocab.txt",
+    "bytes": 1699,
+    "sha256": "17f8a5f19269dcd51440fe0761dd2f7e8c7c746bf1bc8b4052914e0ba666217f"
+  },
+  {
+    "path": "datasets/1m/token_freq.csv",
+    "bytes": 2761,
+    "sha256": "89e90231c8246f6add428bf0255c650a444f631e56059e8ff9902a4382d96cbc"
+  },
+  {
+    "path": "datasets/inventory.json",
+    "bytes": 867,
+    "sha256": "014e71d94389fb298995a31487241c17d1d5b7a3d4d37376f198e81e32c6118b"
+  }
+]

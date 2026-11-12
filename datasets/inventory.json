@@ -1,0 +1,29 @@
+{
+  "10k": {
+    "molecule_rows": 9995,
+    "fragment_rows": 9995,
+    "label_rows": 9995,
+    "fragment_vocabulary_size": 6118,
+    "molecule_fragment_identity_mismatches": 9994,
+    "fragment_label_mismatches": 0,
+    "historical_pairing": "positional; preserved byte-for-byte"
+  },
+  "100k": {
+    "molecule_rows": 99748,
+    "fragment_rows": 99748,
+    "label_rows": 99748,
+    "fragment_vocabulary_size": 32108,
+    "molecule_fragment_identity_mismatches": 99690,
+    "fragment_label_mismatches": 0,
+    "historical_pairing": "positional; preserved byte-for-byte"
+  },
+  "1m": {
+    "molecule_rows": 982458,
+    "fragment_rows": 982458,
+    "label_rows": 982458,
+    "fragment_vocabulary_size": 150159,
+    "molecule_fragment_identity_mismatches": 982376,
+    "fragment_label_mismatches": 0,
+    "historical_pairing": "positional; preserved byte-for-byte"
+  }
+}

@@ -1,0 +1,752 @@
+[
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1338,
+    "sha256": "aef2605cc5c69bac73fc74f0e3f41de3d26414101231281122fdaa0786ae0342"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 2306952,
+    "sha256": "2f22dd6c2ad18cd2e8a7ae0a6fcf40c283ff4c7ee488d397df0bac544c9dc005"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 3003019,
+    "sha256": "2e1d111403ce3afefda43bee2fd7e30ddf007ae5a90ee784b3b6751a3329687a"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/generated_canonical_smiles.txt",
+    "bytes": 545987,
+    "sha256": "0d397afbcb6635fb39d6f95e91091d17b1abd7a63499c5f2fdea68df8ed04a3a"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/generated_props.csv",
+    "bytes": 1646123,
+    "sha256": "853ad85b11fc2eb2882dedc4b005c313afe2e504f3f2a8d14c32ebcc96958399"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/inputs.sha256",
+    "bytes": 530,
+    "sha256": "bf40b4b7f1d2417c6627d8faf6fb1c2e2a06a96dc7eac13f133bed3df695852e"
+  },
+  {
+    "path": "results/main/Baseline-VAE_100k_s1/train.log",
+    "bytes": 41,
+    "sha256": "bd290443fc059dfa0ae5234f83bf33ae319bd697c9e91c0cd9aad3bad66270c7"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1356,
+    "sha256": "391994685d33f1e8af68d30305474ec6398c9d6173a3af57124c3d720ff39430"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 804847,
+    "sha256": "023e60776fc7cfbe3196fdeacb22376214865a3c014c60a09e2cd3ab0b71307a"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 800449,
+    "sha256": "5a32f32c12207980e5b271be14c2a9764998e0aad1473039d600e1881920f8d9"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/generated_canonical_smiles.txt",
+    "bytes": 484914,
+    "sha256": "91e16087152a4eb39148116228b4dec8c289f5e1dd228bce3aca6eb59f2f141a"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/generated_props.csv",
+    "bytes": 1536442,
+    "sha256": "8a5b0f943debeba0892869c953a3e3504f4221fe13b500c20f1696b3686db6d5"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/inputs.sha256",
+    "bytes": 527,
+    "sha256": "7f997d99393531c12c47e17aece0e92c7b35ca91e85b8ce49c8fa9775746ceb5"
+  },
+  {
+    "path": "results/main/Baseline-VAE_10k_s1/train.log",
+    "bytes": 41,
+    "sha256": "acded47d6d3ed802010914d82dd18ab7179963c4893ca6cf31771772266101f8"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1295,
+    "sha256": "7dd6d25ec323f818ca33974ca822cab114c17615abbd5137bb7ad03015db022d"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 171765,
+    "sha256": "21c0a482ae1f6bcf0ba60c100e873d5a3b0e217e9de6b6f173ac3dd4727a90b8"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9175785,
+    "sha256": "88846dd325c4406be2ade463d358dd561a55cdd5dd9f717b908c2ba9360d2938"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/generated_canonical_smiles.txt",
+    "bytes": 525952,
+    "sha256": "498f278b7cbb3bfc19bbe8c58374c3937be75c3c91d31bba1ab9dbb324c0329b"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/generated_props.csv",
+    "bytes": 1634710,
+    "sha256": "f500cf6908d813fec394242eb48eb1122ebd20080e2eb9df2251bcedbf4b4f2e"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/inputs.sha256",
+    "bytes": 524,
+    "sha256": "9a4dd4c4912eb2a9d66db3f60f02eb5346855a35204abf9d3f9b1093c5fbe549"
+  },
+  {
+    "path": "results/main/Baseline-VAE_1m_s1/train.log",
+    "bytes": 41,
+    "sha256": "7ec603a9dd8ef9f28f1abd7a6d590e184b88f288e10ab2982f927f34215bb332"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1328,
+    "sha256": "ae4f86ae38e919f74d0244bb7ae48bccc7d1831c9ea2db7981621cf2be26e54b"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 2626976,
+    "sha256": "212e43600ed3adbe7433cff97fe3f3db6095111c5a2c3a8558877455be5d0a4f"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 3326063,
+    "sha256": "f74d1287deb00c5699efe94fe69c63ba1632f5828187bc8b085e9ec72565b8c4"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/generated_canonical_smiles.txt",
+    "bytes": 637859,
+    "sha256": "7da1fcd0964abe378005e0089fa5c1515a6424dbd7f829e24b08eebb077f3b45"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/generated_props.csv",
+    "bytes": 1961877,
+    "sha256": "0413652e02df939e684d81fdab01f2f0c84c2cffb83cbc490f4ef6d18629d4ae"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/inputs.sha256",
+    "bytes": 602,
+    "sha256": "b4d24e83bde9630d009779b069cae0a26c1b23a3a053048bc494111422aed89d"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_100k_s1/train.log",
+    "bytes": 4560,
+    "sha256": "63ed8f0bcc5a49816638b5bbf3c6af154732fa7d0fc98abe664a910d839379d4"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1339,
+    "sha256": "5a61e057e05458679ea490e4daded6d604dcbbad43dc81df31e3d6f6dafebacc"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 888667,
+    "sha256": "d7bc64df86a9c0f564c7c3b26c1e62b3723404d2a32c83e7a1cba1f56cd9abac"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 854000,
+    "sha256": "ff5d1b2d27fc06239394e8bf664b03060bf943ee9b1c6a7a08645cc33d21a07e"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/generated_canonical_smiles.txt",
+    "bytes": 444224,
+    "sha256": "b9775831014fed4c83fa82b28f504f09c688e03f28304f7fb7b846c2ef0afa4f"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/generated_props.csv",
+    "bytes": 1429151,
+    "sha256": "9ed7194141fdf74ff5b11de149130ddf6e7b415241c4c6ce1617c9381e37cc15"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/inputs.sha256",
+    "bytes": 596,
+    "sha256": "5df5892e2b7beb590071276b08705071a50949850053270439c5280d2fb1ec88"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_10k_s1/train.log",
+    "bytes": 33573,
+    "sha256": "aa2aaca5c1f21f419aab2abe05d5d2d0074a332bc9685fb183fc1a39731dbaa2"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1324,
+    "sha256": "b6c4869f2cd93789b8e92e55c4e37fda3e63386fdf370d423d4fd73c6bf41bec"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 134757,
+    "sha256": "5c3acc5ff9363b42ac81735d6e0ede541b2216b5ebf0f506e88d6041373472e9"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9178647,
+    "sha256": "b8fc7ce70973146f12ceb2fd18febdb681ac572014fb874c004b3ae1dbba9212"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/generated_canonical_smiles.txt",
+    "bytes": 110251,
+    "sha256": "bba8b299008afa80f6221f4e01917a5a1a8311a12aa5222d9ec44a7ebf50953f"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/generated_props.csv",
+    "bytes": 765437,
+    "sha256": "02b0a14bd66d9c2a84d0a7cc078b1169de7affb3a0fad734195ab4a969de2f19"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/main/Contrastive-VAE_1m_s1/train.log",
+    "bytes": 3684,
+    "sha256": "8dac16295e7394a761a4ea709be7a3d3c2d1c2e3275874e0619cc7fe450b4ec8"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1340,
+    "sha256": "cd2487b954269ffa69e76bb335d285c10cbc329e06ca9d2ee53546dbc45c9c12"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 2276514,
+    "sha256": "96985bc5773c07efe86c4162fa97cc8623d93d6a11da848885b02fe1dbbf095f"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 2979651,
+    "sha256": "0296c27d24df153162f86499e084522ded33ccf948d88fc91f7e0bb61e32cdd7"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/generated_canonical_smiles.txt",
+    "bytes": 523628,
+    "sha256": "5eaf588ee6d90fc188f41da3f393f50a9157818ca89e4ad43e33ea5f84c40a1e"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/generated_props.csv",
+    "bytes": 1619907,
+    "sha256": "3a64623d57fd558e7c0a6de025fad141ab617b15eb2c85f5721ab0450f2a4789"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/inputs.sha256",
+    "bytes": 602,
+    "sha256": "b4d24e83bde9630d009779b069cae0a26c1b23a3a053048bc494111422aed89d"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_100k_s1/train.log",
+    "bytes": 4199,
+    "sha256": "71d3db0f3c59df3dd071f41e41af4acdff93379dc98f560e26053b47010cecb6"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1340,
+    "sha256": "c590ec1b1eaee92743dd3470f33f296186918dc3604c36ef6b52b31465ed7977"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 880193,
+    "sha256": "9828d60e8bbaee1bf75c0c9ac27a87cf1aa8cc824fba6b04f1e8c0696bd14913"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 854960,
+    "sha256": "9efef074613fde51c7503910638f152fa5769ae5465b519b87901e1508fd1d07"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/generated_canonical_smiles.txt",
+    "bytes": 498707,
+    "sha256": "1cc15e2a93341c61651515097954c1a5eeab7e3caf1b89b9868b9288628e2388"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/generated_props.csv",
+    "bytes": 1524094,
+    "sha256": "a878ff0c86b466c0a9b44a75c27c9bf5fc3ab044dede63daea08546dedc07fc6"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/inputs.sha256",
+    "bytes": 596,
+    "sha256": "5df5892e2b7beb590071276b08705071a50949850053270439c5280d2fb1ec88"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_10k_s1/train.log",
+    "bytes": 31335,
+    "sha256": "4e4c83411b3a1c845c30550b5e8c5b75c56942036018599b8f1ccc0c931dab66"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/env.txt",
+    "bytes": 61,
+    "sha256": "e1cdb6931e71d343e467f7df345f514716f47425ad19d8d899f2a13c813c35e3"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1297,
+    "sha256": "bba9e514b22dcaeba115b255ae31e152d22d5a801ca67f5f71d77e969e07f596"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 165974,
+    "sha256": "8f6760f50d3ff9a01d5afb04e118963c1f2053169e130544f824a49907217464"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9175642,
+    "sha256": "5b52a3fbf30dc67ba10eb91f8bfe6502bf86b620088276db292d503f94e4337b"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/generated_canonical_smiles.txt",
+    "bytes": 529266,
+    "sha256": "3359b0a5e0eebc6d2626911d89f68f17097009ad40c5fc671ef039e293240171"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/generated_props.csv",
+    "bytes": 1631042,
+    "sha256": "4556bfde563136ab9e31383c491e6436aaec5ae262942da195a19f343ff6c67f"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/main/Rare-Aware-VAE_1m_s1/train.log",
+    "bytes": 4168,
+    "sha256": "a4635aed6d7d97b6f4920f685e80b899eb428f0d45ce8fb72b17575cef89c514"
+  },
+  {
+    "path": "results/tables/coverage100_vs_scale.csv",
+    "bytes": 245,
+    "sha256": "5b130c1508837ef8d5ffd0a5a0fdd56bcc9e46674cb3c9184dcf67b0eadf5999"
+  },
+  {
+    "path": "results/tables/coverage500_vs_scale.csv",
+    "bytes": 242,
+    "sha256": "cad8361d5c63404b836d84c36bd503027e939280ef2e9ff6fc58fab13a346192"
+  },
+  {
+    "path": "results/tables/jsd_vs_scale.csv",
+    "bytes": 242,
+    "sha256": "c8f1f39e5e2e5203b04454d32e5430c0820b548ac62eb3133e40879a4662e264"
+  },
+  {
+    "path": "results/tables/rare_recall_vs_scale.csv",
+    "bytes": 245,
+    "sha256": "096204ef96176fd54307e1f58fe832e46b77833e6eaf5a189f26cc0e6b0588a2"
+  },
+  {
+    "path": "results/tables/table_S1_rare20_counts.csv",
+    "bytes": 3359,
+    "sha256": "4de4b986b18074ddc63c707da88c3d9efa413829b1d864f516ac8961b6d1b09f"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1295,
+    "sha256": "c70dbecbe66be2730798c0472343f5ca64922911ee80a7ca84c733e10eba4bb7"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 174466,
+    "sha256": "d1b0eee266a038cce4c00330b9505e22167bd9b8d62038dbb9dc782f7b514b3c"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9183975,
+    "sha256": "2ca5010cd2f40660022b8e57c792541545c212d8226322ffe80d92305ac5673d"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/generated_canonical_smiles.txt",
+    "bytes": 525435,
+    "sha256": "d53ba3d9ad29237489ba3b6acf72a80128cf1c6fe48874e16784341fc0ed9c29"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/generated_props.csv",
+    "bytes": 1634901,
+    "sha256": "b32ffdb3cef74e1f7429a43d136579b7732cc32e01523e3eb5d3ad738bf63f99"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/inputs.sha256",
+    "bytes": 524,
+    "sha256": "9a4dd4c4912eb2a9d66db3f60f02eb5346855a35204abf9d3f9b1093c5fbe549"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s1/train.log",
+    "bytes": 41,
+    "sha256": "1ede30a42b00504442c68d201447e340e978106ca3343de65fc93ec5571caa52"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1292,
+    "sha256": "2c87ea34156155eda30d1d364d8bfcbbd7273475bacceecdaa3b5147a3ef08a0"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 203215,
+    "sha256": "cbdc7b3aa2f02b685e67483a5f371558d621781afd009bc08bcbc78510e8ca97"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9179740,
+    "sha256": "7b71612804204edcfad643b39cf85606f715e380e64a891d3d9ffad720de65a2"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/generated_canonical_smiles.txt",
+    "bytes": 517052,
+    "sha256": "027b6e66a6ac15faff4675a6a3baee5672e76f02f2f4d1e4a6c440dfc54693f4"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/generated_props.csv",
+    "bytes": 1603405,
+    "sha256": "9adf30a864142511e61a3df353e59bf8dda4f1b8f029ceebd961dbeb2af62acd"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/inputs.sha256",
+    "bytes": 524,
+    "sha256": "9a4dd4c4912eb2a9d66db3f60f02eb5346855a35204abf9d3f9b1093c5fbe549"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s10/train.log",
+    "bytes": 41,
+    "sha256": "d231876b96e9b68275c8c9cd363c79bf0652a0db3759ff2527eee0c976d24012"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1293,
+    "sha256": "31d4dcaef577cf318e5d7fcf783ea54d61995c0535a4de5d785cdeb6f5a38a91"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 198550,
+    "sha256": "40f3d61b6cd6256472d849777c9e5f845f54742925fb1c4a902ea591f32cfbc2"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9085862,
+    "sha256": "f0f63a493b56dd5601b797bbe503ca6ed4c7ab3eef35ba6500360d857c7b8b4e"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/generated_canonical_smiles.txt",
+    "bytes": 541372,
+    "sha256": "9f76bb3a4ed57fa88d813463f490c30b00f22e1f6312d8d317017024587e05bf"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/generated_props.csv",
+    "bytes": 1646068,
+    "sha256": "0739285aa280b31873d807790db287e4da416080030f1c68b93bfdf764f1ab42"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/inputs.sha256",
+    "bytes": 524,
+    "sha256": "9a4dd4c4912eb2a9d66db3f60f02eb5346855a35204abf9d3f9b1093c5fbe549"
+  },
+  {
+    "path": "results/replicates/Baseline-VAE_1m_s100/train.log",
+    "bytes": 41,
+    "sha256": "a3b4b2dadcb90583dcd850a9508cd676703c1a195859e7d94b8d42cff820acbd"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1322,
+    "sha256": "ee294a879ef4e05eaf4e06be14085e94a46783518d2581104bbde64fb90c81d9"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 135262,
+    "sha256": "37a8c3e4d658b6159eff8f667843edf0026491505077bcdf98de240f6dd8d5a2"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9065064,
+    "sha256": "34152667a22ee68509e3d8c3a5330430b7f4d4478b290081b860d61c30dd37ce"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/generated_canonical_smiles.txt",
+    "bytes": 110357,
+    "sha256": "29ec5921f8967a111f4c97f99eee32118a4472c3f924379f734536abe50063ba"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/generated_props.csv",
+    "bytes": 764605,
+    "sha256": "1e77c083bf71c7b8adf7f8f43f339ff24d9f2ec0dd29dfb448865df7a15afe4a"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s1/train.log",
+    "bytes": 3684,
+    "sha256": "ecbad5993236b7c3ffe5966ac1cedb772b7f859606046c0a92c5290ab7b823bc"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1283,
+    "sha256": "24051d4b0de629fb719d701a455fe1521aba080f2b8ab65a1ca51bd4948d16ff"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 1365783,
+    "sha256": "13857703a2ae521c11333c16edcbee118a52cb2663b46321380213b33fa5f568"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9183565,
+    "sha256": "510c65fc54c12e52b5cd831f2a47530afb1464347c5f1b72ac4fc7623b2a7eb7"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/generated_canonical_smiles.txt",
+    "bytes": 1137220,
+    "sha256": "a0804d17cbd682b037617d7f0990462fd8a1c84afb11c439eeaf54e0d5cffe4e"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/generated_props.csv",
+    "bytes": 2753209,
+    "sha256": "3876d2783723c53e2a6ce3ee659d62f12eece22280e03ba15de539b54a38ff5b"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s10/train.log",
+    "bytes": 656,
+    "sha256": "9bb50dc60e440a5a8b3b8ca28c6e55774e4fae1ec7c891a2193a7bf769b19b9f"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1289,
+    "sha256": "533f6e398668c80b9906944f95a30732a9a37e3d9357c504e2f4108fe4eb1593"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 716738,
+    "sha256": "544228b75e99ac80cf34b18dea4db77e15fb8a457de0dad28ea1c5e06b598305"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9172951,
+    "sha256": "13ef8ae6ad823179a3c07ef1a50d06f034bed3d91e3125c18d899140b24d0443"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/generated_canonical_smiles.txt",
+    "bytes": 502773,
+    "sha256": "49561cf47c4f8c675fa102d21b6096b5fb3a64418f832c991500fa5dfb8aeacf"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/generated_props.csv",
+    "bytes": 1576329,
+    "sha256": "8ef302c181ab59e5ce40ba215186c8d3019ff5b922377a2c3f183a4ed43eee2b"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/replicates/Contrastive-VAE_1m_s100/train.log",
+    "bytes": 650,
+    "sha256": "5207c43397ed5dc65bae21da86ad02d2bca8db044ea968ba9772f1915bafb473"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1294,
+    "sha256": "96ef95506365a764ac203aea6a779d09a4d2f09daa963f55c23045a0e905de39"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 170542,
+    "sha256": "40b3e1e68007cf3a0e9d625dab60759c0101421abb98088c58ca3699f625bcc0"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9056668,
+    "sha256": "07ca832a41be45bd1c58a75b32f25b963150e33a9685610a3482a1b72f2dd448"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/generated_canonical_smiles.txt",
+    "bytes": 528860,
+    "sha256": "76c5635600f6605733a5a57406236d5b94eed086cd87ae255ca207f9aa5d185a"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/generated_props.csv",
+    "bytes": 1630104,
+    "sha256": "5162ed60da8273e8a98cdb6d84ce97aeca3f69a128238eb4dc2a7d34daf46d3c"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s1/train.log",
+    "bytes": 4168,
+    "sha256": "d80d397ad242f044af40e8862f850290492023a20b8037855a3d5cd67843fd5a"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1296,
+    "sha256": "f1414e62779f670ed744543f9032c6bda1f1acd1f034403262481deed9a30f34"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 202025,
+    "sha256": "f630c917c5fdb13be5498cb1cd5d6267da911b1267097f3dd6be5bd70b4638a6"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9085730,
+    "sha256": "afd09597140c50c42541dc908d238ed2fe43e4254be5b67bd3856292536366a0"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/generated_canonical_smiles.txt",
+    "bytes": 537832,
+    "sha256": "5f23f1504b93294bcaad53cd4d0691cf02a3a9fb4c5fc5d403deda263a3fee73"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/generated_props.csv",
+    "bytes": 1639291,
+    "sha256": "5f31b8cb58490468c041ce746ae0bbd7cda3442cf5a9676725aec193aa491296"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s10/train.log",
+    "bytes": 628,
+    "sha256": "8eef918765734aeaae254de1b6f69b48816a3f734a0c6b65c92dce0f26185bde"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/env.txt",
+    "bytes": 61,
+    "sha256": "d817790b1bdc7cb91cc99eb9a98913b15468845aff5b5424ba073f9589236307"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/frag_eval_smiles/frag_eval_report.json",
+    "bytes": 1297,
+    "sha256": "067c1517fb63d2cfd6c585cb778327294219c678c8d79f3ad55f58f92431de82"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/frag_eval_smiles/frag_freq_gen.csv",
+    "bytes": 198399,
+    "sha256": "6ad05675ee0dbeb8abaa63a64610509d8879c9f54aa25287c55dee5d083f1d68"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/frag_eval_smiles/frag_freq_train.csv",
+    "bytes": 9172947,
+    "sha256": "c460e157b0e89bcb27d5590b1266ad2b1cf23bc6bd142f39c9886cbd46cfe0fd"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/generated_canonical_smiles.txt",
+    "bytes": 532234,
+    "sha256": "3d64e36a6151d1ed7b11f19866a5b903e3683268e6ff8e59cee9cfd9664940c3"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/generated_props.csv",
+    "bytes": 1616825,
+    "sha256": "6b88aca711aac0714074d42d48f31426bdf0a1036726366073644c12e615e8e3"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/inputs.sha256",
+    "bytes": 590,
+    "sha256": "93fea0842407a73971987639feeea22db26124abfb650768f5a11a7320b0daf3"
+  },
+  {
+    "path": "results/replicates/Rare-Aware-VAE_1m_s100/train.log",
+    "bytes": 630,
+    "sha256": "f8f66ae2ecabca0660e0a6e501496ddb2bee9d94c934a0675aac9354f4f0f8a4"
+  },
+  {
+    "path": "results/summary.csv",
+    "bytes": 3177,
+    "sha256": "ddd4949e40e21f0bc1e06897a67ba68de08da168f346dc2c36664d919cd1e57b"
+  }
+]
